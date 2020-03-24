@@ -1,0 +1,16 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "c7171f78-dd5c-42a1-b98c-ed4cf679375b"
+	},
+	"author": "Tejas Gaikwad",
+	"dependencies": {}
+}
